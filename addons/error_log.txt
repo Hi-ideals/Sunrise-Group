@@ -1,0 +1,152 @@
+2025-07-03 07:12:39 - Addons Folder not exist and has been created on root directory.
+2025-07-03 07:12:39 - New addon Uploading started on Addons Folder.
+2025-07-03 07:12:39 - Starting the unzip the addon folder.
+2025-07-03 07:12:39 - File unzipped successfully to:/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch
+2025-07-03 07:12:39 - successfully decoded JSON file /home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/addon_info.json
+2025-07-03 07:12:39 - inserted addon info details to addons table
+2025-07-03 10:02:10 - //=================Addon Folder uploading started.=================//
+2025-07-03 10:02:10 - New addon Uploading started on Addons Folder.
+2025-07-03 10:02:32 - *************************************************************************************************************
+2025-07-03 10:02:32 - successfully decoded JSON file /home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/addon_info.json
+2025-07-03 10:02:32 - //================= Before install/update backup process has started =================//
+2025-07-03 10:02:32 - Directory created successfully.:/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/backup/backup_info.json
+2025-07-03 10:02:32 - Data successfully written to /home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/backup/backup_info.json
+2025-07-03 10:02:32 - //================= Copying Backup files process has started =================//
+2025-07-03 10:02:32 - //================= Copying Backup files process has ended successfully =================//
+2025-07-03 10:02:32 - //================= Before install/update Backup process has ended =================//
+2025-07-03 10:02:32 - //================= New Addon Smart School Multi Branch installing process has started =================//
+2025-07-03 10:02:32 - //================= New Addon Smart School Multi Branch file copy process has started =================//
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/backend/dist/css/multi_branch.css
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/core/MY_Addon_MBController.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/layout/multi_branch.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/dashboard.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/expensereport.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/incomereport.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/_feeCollectionStudentDeposit.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/_report.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/incomelist.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/userlogreport.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/dailycollectionreport.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/payroll.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/expenselist.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/finance/index.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/overview.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/_switchbranchlist.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/upload.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/views/admin/multibranch/index.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Mongolian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Estonian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Javanese/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Japanese/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Scottish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Amharic/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Hebrew/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Korean/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Slovakian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Malay/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Lao/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Sundanese/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Persian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Hungarian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Bosnian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Xhosa/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Italian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Icelandic/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Telugu/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Latin/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Croatia/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Albanian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Punjabi/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Uzbek/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Hindi/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/German/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Vietnamese/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Swedish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Georgian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Welsh/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Macedonian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Catalan/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Thai/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Lithuanian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Spanish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Yiddish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Gujarati/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Kannada/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Maltese/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Cebuano/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Irish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Indonesian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Tagalog/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/French/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Malayalam/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Afrikaans/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Finnish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Arabic/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Marathi/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Latvian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Esperanto/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Maori/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Polish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Greek/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Dutch/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Malagasy/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Haitian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Turkish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Azerbaijan/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Czech/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Romanian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Bengali/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Slovenian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Tamil/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Urdu/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Danish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/English/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Basque/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Norwegian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Portuguese/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Russian/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Sinhala/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Nepali/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Kurdish/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Swahili/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Chinese/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/language/Galician/app_files/multibranch_lang.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/config/multibranch-config.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/models/multibranch/Multibranch_model.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/models/multibranch/Multi_expense_model.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/models/multibranch/Multi_payroll_model.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/models/multibranch/Multi_user_log_model.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/models/multibranch/Multi_student_fee_model.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/models/multibranch/Multi_income_model.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/models/multibranch/Multi_common_model.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/controllers/admin/multibranch/Branch.php
+2025-07-03 10:02:32 - File was Copied successfully in location -/home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/installer/install/files/application/controllers/admin/multibranch/Finance.php
+2025-07-03 10:02:32 - //================= New Addon Smart School Multi Branch file copy process has ended =================//
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - Query executed successfully.
+2025-07-03 10:02:32 - //================= New Addon multi_branch process has ended =================//
+2025-07-04 05:44:39 - *************************************************************************************************************
+2025-07-04 05:44:39 - //================= Addon Smart School Multi Branch unistall process has started =================//
+2025-07-04 05:44:39 - Removing files of Smart School Multi Branchprocess has started.
+2025-07-04 05:44:39 - successfully decoded JSON file /home/u499940289/domains/sunrisegroupofinstitution.com/public_html/educare/./addons/multi_branch/uninstall/unistall_directory.json
+2025-07-04 05:44:40 - Query execution of unistall the Smart School Multi Branch addon process has started.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
+2025-07-04 05:44:40 - Query executed successfully.
